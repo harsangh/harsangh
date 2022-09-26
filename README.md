@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hsanghvideloitte
+- 👋 Hi, I’m @harsangh
 - 👀 I’m interested in microservices and cloud technologies
 - 🌱 I’m currently learning Google Cloud
 
